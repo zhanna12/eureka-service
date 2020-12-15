@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="eureka-service" target="11" />
+      <module name="eureka-service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

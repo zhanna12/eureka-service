@@ -1,22 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b7b40b5-1131-4d6c-8e48-690e59e60976" name="Default Changelist" comment="" />
+    <list default="true" id="2b7b40b5-1131-4d6c-8e48-690e59e60976" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kz/iitu/pharm/eurekaservice/EurekaServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kz/iitu/pharm/eurekaservice/EurekaServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/kz/iitu/pharm/eurekaservice/EurekaServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/kz/iitu/pharm/eurekaservice/EurekaServiceApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/kz/iitu/pharm/eurekaservice/EurekaServiceApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/kz/iitu/pharm/eurekaservice/EurekaServiceApplicationTests.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iDrAVB33EBImHv6kG6Dyt4H2B6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../3 курс/Java Web components/MidPharm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../payment-service" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2765114" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -52,10 +85,57 @@
       <workItem from="1601452861761" duration="2577000" />
       <workItem from="1601533869732" duration="3310000" />
       <workItem from="1601604620257" duration="1200000" />
+      <workItem from="1601622148673" duration="1669000" />
+      <workItem from="1601738977801" duration="590000" />
+      <workItem from="1601833736614" duration="1318000" />
+      <workItem from="1601875537591" duration="2903000" />
+      <workItem from="1602395582714" duration="483000" />
+      <workItem from="1602405185262" duration="2217000" />
+      <workItem from="1602444402843" duration="968000" />
+      <workItem from="1602480879098" duration="810000" />
+      <workItem from="1602493342362" duration="1997000" />
+      <workItem from="1604555411188" duration="1791000" />
+      <workItem from="1604587078975" duration="711000" />
+      <workItem from="1604654764737" duration="1258000" />
+      <workItem from="1604909081474" duration="994000" />
+      <workItem from="1605188444845" duration="1937000" />
+      <workItem from="1605248298556" duration="1244000" />
+      <workItem from="1605679958504" duration="698000" />
+      <workItem from="1605787890988" duration="566000" />
+      <workItem from="1605789647213" duration="39000" />
+      <workItem from="1606120252190" duration="659000" />
+      <workItem from="1606645107476" duration="589000" />
+      <workItem from="1607099530122" duration="1183000" />
+      <workItem from="1607161927315" duration="2336000" />
+      <workItem from="1607927258737" duration="3435000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/kz/iitu/pharm/eurekaservice/EurekaServiceApplication.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
